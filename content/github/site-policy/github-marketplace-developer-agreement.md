@@ -1,3 +1,4 @@
+[Benefits of Accepting Credit Cards.PDF](https://github.com/github/docs/files/7884218/Benefits.of.Accepting.Credit.Cards.PDF)
 ---
 title: GitHub Marketplace Developer Agreement
 redirect_from:
